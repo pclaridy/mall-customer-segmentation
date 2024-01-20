@@ -7,22 +7,6 @@ from sklearn.decomposition import PCA
 from sklearn.cluster import KMeans, DBSCAN, AgglomerativeClustering, SpectralClustering
 from sklearn.mixture import GaussianMixture
 from sklearn.metrics import silhouette_score
-from scipy.stats import pearsonr
-from scipy.cluster import hierarchy
-import plotly as py
-import plotly.graph_objs as go
-from yellowbrick.cluster import KElbowVisualizer
-import warnings
-
-import numpy as np
-import pandas as pd
-import matplotlib.pyplot as plt
-import seaborn as sns
-from sklearn.preprocessing import StandardScaler
-from sklearn.decomposition import PCA
-from sklearn.cluster import KMeans, DBSCAN, AgglomerativeClustering, SpectralClustering
-from sklearn.mixture import GaussianMixture
-from sklearn.metrics import silhouette_score
 import warnings
 from yellowbrick.cluster import KElbowVisualizer
 
