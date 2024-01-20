@@ -37,32 +37,32 @@ The dataset consists of customer information, including age, gender, annual inco
 
 K-Means clustering reveals five distinct customer segments, with clear differentiation in spending habits and income levels.
 
-![K-Means Clustering](https://github.com/pclaridy/mall-customer-segmentation/KMeans20%Clustering.png)
+![K-Means Clustering](https://github.com/pclaridy/mall-customer-segmentation/KMeans_Clustering.png)
 
 
 ### DBSCAN Clustering (PCA-reduced data)
 
 DBSCAN identifies a primary cluster with several outliers, suggesting a majority segment with similar characteristics and a few anomalies.
 
-![DBSCAN Clustering](https://github.com/pclaridy/mall-customer-segmentation/DBSCAN20%Clustering.png)
+![DBSCAN Clustering](https://github.com/pclaridy/mall-customer-segmentation/DBSCAN_Clustering.png)
 
 ### Agglomerative Clustering (PCA-reduced data)
 
 Agglomerative Clustering indicates five customer groups with varying density and connection to each other within the PCA-reduced feature space.
 
-![Agglomerative Clustering](https://github.com/pclaridy/mall-customer-segmentation/Agglomerative20%Clustering.png)
+![Agglomerative Clustering](https://github.com/pclaridy/mall-customer-segmentation/Agglomerative_Clustering.png)
 
 ### Spectral Clustering (PCA-reduced data)
 
 Spectral Clustering captures complex, non-linear relationships, dividing customers into five well-defined yet subtly overlapping segments.
 
-![Spectral Clustering](https://github.com/pclaridy/mall-customer-segmentation/Spectral20%Clustering.png)
+![Spectral Clustering](https://github.com/pclaridy/mall-customer-segmentation/Spectral_Clustering.png)
 
 ### Gaussian Mixture Model Clustering (PCA-reduced data)
 
 The Gaussian Mixture Model suggests the existence of subgroups that might correspond to different types of customer behavior or profiles.
 
-![Gaussian Mixture Model Clustering](https://github.com/pclaridy/mall-customer-segmentation/GMM20%Clustering.png)
+![Gaussian Mixture Model Clustering](https://github.com/pclaridy/mall-customer-segmentation/GMM_Clustering.png)
 
 ## Conclusion
 
