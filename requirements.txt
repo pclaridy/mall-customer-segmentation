@@ -1,0 +1,29 @@
+certifi @ file:///home/conda/feedstock_root/build_artifacts/certifi_1700303426725/work/certifi
+contourpy @ file:///Users/runner/miniforge3/conda-bld/contourpy_1699041423031/work
+cycler @ file:///home/conda/feedstock_root/build_artifacts/cycler_1696677705766/work
+fonttools @ file:///Users/runner/miniforge3/conda-bld/fonttools_1704979938834/work
+joblib @ file:///home/conda/feedstock_root/build_artifacts/joblib_1691577114857/work
+kiwisolver @ file:///Users/runner/miniforge3/conda-bld/kiwisolver_1695380047486/work
+matplotlib @ file:///Users/runner/miniforge3/conda-bld/matplotlib-suite_1700509648912/work
+munkres==1.1.4
+numpy @ file:///Users/runner/miniforge3/conda-bld/numpy_1704280471343/work/dist/numpy-1.26.3-cp312-cp312-macosx_10_9_x86_64.whl#sha256=5d99cf985cd9cbbcbc776fb82281f29d8b8132ecc8b75ae10af1b0a93254b9b7
+packaging @ file:///home/conda/feedstock_root/build_artifacts/packaging_1696202382185/work
+pandas @ file:///Users/runner/miniforge3/conda-bld/pandas_1702057198359/work
+patsy @ file:///home/conda/feedstock_root/build_artifacts/patsy_1704469236901/work
+pillow @ file:///Users/runner/miniforge3/conda-bld/pillow_1704252132396/work
+plotly @ file:///home/conda/feedstock_root/build_artifacts/plotly_1698272730927/work
+pyparsing @ file:///home/conda/feedstock_root/build_artifacts/pyparsing_1690737849915/work
+python-dateutil @ file:///home/conda/feedstock_root/build_artifacts/python-dateutil_1626286286081/work
+pytz @ file:///home/conda/feedstock_root/build_artifacts/pytz_1693930252784/work
+scikit-learn @ file:///Users/runner/miniforge3/conda-bld/scikit-learn_1705657369124/work
+SciPy @ file:///Users/runner/miniforge3/conda-bld/scipy-split_1700812573211/work/dist/scipy-1.11.4-cp312-cp312-macosx_10_9_x86_64.whl#sha256=bff87204e50766286e497874aa7e28f851a935a5745b1b166e355bf328c5f721
+seaborn @ file:///home/conda/feedstock_root/build_artifacts/seaborn-split_1704312987503/work
+setuptools==68.2.2
+six @ file:///home/conda/feedstock_root/build_artifacts/six_1620240208055/work
+statsmodels @ file:///Users/runner/miniforge3/conda-bld/statsmodels_1702575465560/work
+tenacity @ file:///home/conda/feedstock_root/build_artifacts/tenacity_1692026804430/work
+threadpoolctl @ file:///home/conda/feedstock_root/build_artifacts/threadpoolctl_1689261241048/work
+tornado @ file:///Users/runner/miniforge3/conda-bld/tornado_1695373467875/work
+tzdata @ file:///home/conda/feedstock_root/build_artifacts/python-tzdata_1703878702368/work
+wheel==0.41.2
+yellowbrick @ file:///Users/builder/cbouss/perseverance-python-buildout/croot/yellowbrick_1699296788399/work
