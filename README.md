@@ -1,4 +1,4 @@
-# Customer Mall Segmentation
+# Advanced Segmentation Analysis: Unlocking Mall Customer Insights
 
 This project focuses on customer mall data segmentation, leveraging advanced data analytics techniques to uncover meaningful patterns and insights within the dataset. By segmenting mall customers based on their behavior and characteristics, this project aims to provide valuable information that can guide marketing strategies, enhance customer experiences, and optimize business operations for malls and retail establishments.
 
